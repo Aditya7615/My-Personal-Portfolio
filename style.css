@@ -540,6 +540,7 @@ svg {
     display: flex;
     align-items: center;
     gap: 30px;
+    color: var(--black-color);
 }
 
 .contact_det i {
